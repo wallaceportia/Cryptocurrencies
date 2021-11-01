@@ -8,7 +8,7 @@ Tools
 
 ###### Fit and Transform (Principal Components
 
-![Principal Components]()
+![Principal Components](https://github.com/wallaceportia/Cryptocurrencies/blob/main/Resources/Principal_Components.PNG)
 
 * Plotly
 
