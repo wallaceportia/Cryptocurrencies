@@ -20,7 +20,7 @@ Tools
 
 ####### Elbow Curve
 
-![Elbow Curve]()
+![Elbow Curve](https://github.com/wallaceportia/Cryptocurrencies/blob/main/Resources/Elbow_Curve.PNG)
 
 ###### Total Coines Mined and Supplied
 
